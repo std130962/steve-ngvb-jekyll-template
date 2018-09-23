@@ -6,6 +6,9 @@
 
 - title: "CV"
   href: "/steve-ngvb-jekyll-template/cv/"
+  
+- title: "docs"
+  href: "/steve-ngvb-jekyll-template/docs/"
 
 - title: "Miscellany"
   href: "/miscellany/"
